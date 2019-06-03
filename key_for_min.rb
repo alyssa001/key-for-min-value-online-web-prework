@@ -9,3 +9,5 @@ def key_for_min_value(hash)
   end
   lowest_key
 end
+
+#This lab is extremely complicated and I had to ask help because I didn't understand what was being asked
